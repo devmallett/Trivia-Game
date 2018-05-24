@@ -1,0 +1,32 @@
+
+#b{
+    background-color: blueviolet; 
+}
+h1{
+text-align: center;
+
+}
+#boxMe{
+width: 100%;
+height:auto;
+position: relative;
+border: .5px solid grey;
+background-color: #eee;
+padding: 20px 40px 10px 40px;
+}
+body{
+background-image: url(https://proxy.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Ffanart.tv%2Ffanart%2Ftv%2F84912%2Fshowbackground%2Fparks-and-recreation-50665c7b55586.jpg&u=https://fanart.tv/fanart/tv/84912/showbackground/parks-and-recreation-50665c7b55586.jpg);
+
+}
+.background {
+background-color: white; 
+background-image: 
+    url(https://proxy.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Ffanart.tv%2Ffanart%2Ftv%2F84912%2Fshowbackground%2Fparks-and-recreation-50665c7b55586.jpg&u=https://fanart.tv/fanart/tv/84912/showbackground/parks-and-recreation-50665c7b55586.jpg),
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, red 0%, red 50%),
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, white 0%, white 50%),  
+    repeating-linear-gradient(-45deg, transparent, transparent 33%, white 0%, white 50%),  
+    repeating-linear-gradient(45deg, transparent, transparent 33%, red 0%, red 50%); 
+background-size: 150px 150px;
+background-position: -1px, 2px, 1px 1px;
+}
+
